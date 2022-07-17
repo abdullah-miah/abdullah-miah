@@ -1,8 +1,9 @@
 
-### Hi there 👋, Abdullah Miah
-#### Web Developer
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHtm5e4dKm_Gg/profile-displaybackgroundimage-shrink_350_1400/0/1654628992011?e=1663804800&v=beta&t=kqelUXyGnejNpr4Or94oFzOMcUKkpfjpEJvDrOkDgoY)
 
+
+# Abdullah Miah
+#### Web Developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: / REACT / JS / HTML / CSS/NODE JS
