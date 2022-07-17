@@ -1,7 +1,7 @@
+
+![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHtm5e4dKm_Gg/profile-displaybackgroundimage-shrink_350_1400/0/1654628992011?e=1663804800&v=beta&t=kqelUXyGnejNpr4Or94oFzOMcUKkpfjpEJvDrOkDgoY)
 ### Hi there 👋, Abdullah Miah
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHtm5e4dKm_Gg/profile-displaybackgroundimage-shrink_350_1400/0/1654628992011?e=1663804800&v=beta&t=kqelUXyGnejNpr4Or94oFzOMcUKkpfjpEJvDrOkDgoY)
-
 I am a positive, enthusiastic and competent Web Developer
 who, over the years, has built up a diverse range of skills, qualities
 and attributes that guarantee I will perform highly in this role. I
